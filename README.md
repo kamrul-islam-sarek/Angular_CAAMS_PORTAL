@@ -1,6 +1,6 @@
-# bcaams-portal
+# baams-portal
 
-Portal for Bangladesh custom automation Asset Management System (demo project)
+Portal for Bangladesh automation Asset Management System (demo project)
 
 ## Getting started
 
@@ -15,7 +15,6 @@ Already a pro? Just edit this README.md and make it your own. Want to make it ea
 
 ```
 cd existing_repo
-git remote add origin https://gitlab.bdcustoms.gov.bd/nbr-ums-team/nbr-ums-portal.git
 git branch -M main
 git push -uf origin main
 ```
@@ -43,12 +42,12 @@ Use the built-in continuous integration in GitLab.
 
 ***
 
-# CAAMS
+# BAAMS
 
-Customs Automation Asset Management System
+Bangladesh Automation Asset Management System
 
 ## Description
-CAAMS provides features to efficiently manage the IT assets of an organization. 
+BAAMS provides features to efficiently manage the IT assets of an organization. 
 
 ## Technology Stack
 
@@ -57,11 +56,6 @@ CAAMS provides features to efficiently manage the IT assets of an organization.
 * PostgreSQL
 * Redis
 
-## API Endpoints
-
-* [REST API endpoints with request and response](https://docs.google.com/spreadsheets/d/1PAmk_Ydgx1D960iCy68dvAvf7NV3dD-R4wwQlRzNVVY/edit?usp=sharing)
-
-
 ## Badges
 
 ## Installation
@@ -69,3 +63,6 @@ CAAMS provides features to efficiently manage the IT assets of an organization.
 ## Usage
 
 ## Support
+## Diclarations
+
+Only portal in this project but backend,auth,database are belongs to local PC
